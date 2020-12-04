@@ -1,0 +1,6 @@
+framework module Pods_JenkinsDemoApp_branch {
+  umbrella header "Pods-JenkinsDemoApp_branch-umbrella.h"
+
+  export *
+  module * { export * }
+}
